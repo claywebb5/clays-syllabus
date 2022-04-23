@@ -1,0 +1,23 @@
+.block {
+  width: 100px;
+  height: 100px;
+  margin: 5px;
+  /* border: solid 10px; */
+  display: inline-block;
+}
+
+.red-block {
+  background: red;
+}
+
+.yellow-block {
+  background: yellow;
+}
+
+.green-block {
+  background: green;
+}
+
+.blue-block {
+  background: blue;
+}
